@@ -9,7 +9,6 @@ async def start(client, message):
         [InlineKeyboardButton(
             "Developer 😊", url="https://t.me/Avengerkannan")]
     ])
-    welcomed = f"Hello <b>{message.from_user.first_name}</b>\n</i>@ytdownloadv2bot is the most Advanced YouTube Video Download bot in Tg</i>
-\n/help for More info\n© @songdownloading"
+    welcomed = f"Hello <b>{message.from_user.first_name}</b>\n</i>@ytdownloadv2bot is the most Advanced YouTube Video Download bot in Tg</i>\n/help for More info\n© @songdownloading"
     await message.reply_text(welcomed, reply_markup=joinButton)
     raise StopPropagation
