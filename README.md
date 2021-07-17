@@ -12,8 +12,5 @@
     - install dependencies
     - python3 -m bot
     
-## Join ❤️
-* [Group](https://t.me/songdownloading)
-* [Channel](https://t.me/movielover2021)
-
+## Deploy To Herokku ❤️
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Avengers105/YouTube-Downloader/tree/master)
